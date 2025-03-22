@@ -1,6 +1,6 @@
 # 🏦 Ultimate Bank System - Python 🚀
 
-![Bank System Banner](https://images.unsplash.com/photo-1604594849809-dfedbc827105?q=80&w=1600&h=400&fit=crop)  
+![Bank System Banner](https://images.unsplash.com/photo-1604594849809-dfedbc827105?q=80&w=1600&h=400&fit=cro)  
 
 > A **powerful, secure, and interactive** Python-based **Bank Account Management System** with deposits, withdrawals, balance checking, and advanced input validation. Designed for **efficiency, real-world simulation, and ease of use**. 💰  
 
@@ -9,8 +9,6 @@
 ## 🎯 **Features**  
 ✅ Create a **new bank account** with a **user-defined initial balance**  
 ✅ **Deposit** and **Withdraw** funds with real-time balance updates  # 🏦 Ultimate Bank System - Python 🚀
-
-![Bank System Banner](https://images.unsplash.com/photo-1604594849809-dfedbc827105?q=80&w=1600&h=400&fit=crop)  
 
 > A **powerful, secure, and interactive** Python-based **Bank Account Management System** with deposits, withdrawals, balance checking, and advanced input validation. Designed for **efficiency, real-world simulation, and ease of use**. 💰  
 

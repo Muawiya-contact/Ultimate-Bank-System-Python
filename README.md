@@ -1,6 +1,7 @@
 # 🏦 Ultimate Bank System - Python 🚀
 
-![Bank System Banner](https://images.unsplash.com/photo-1580519541935-66a5cd877091?q=80&w=1600&h=400&fit=crop)
+![Bank System Banner](https://raw.githubusercontent.com/Muawiya-contact/Ultimate-Bank-System-Python/main/banner.png)
+
 
 > A **secure, file-based** Python-powered **Bank Account Management System** 🏦  
 > Features **persistent data storage, deposits, withdrawals, balance checking, and input validation.**  
